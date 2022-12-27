@@ -1,0 +1,9 @@
+
+@media screen and (max-width:450px){
+    .main{
+        display: none;
+    }
+    .bor{
+        display: block;
+    }
+}
